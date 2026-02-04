@@ -73,7 +73,7 @@ Nebulus is a modular stack that helps run, orchestrate, and compose local AI ser
 ## 📫 Connect with Me
 
 - LinkedIn: [Jason L West, Sr.](https://linkedin.com/in/jlwestsr)
-- Follow me on X: [JLWestSr](https://x.com/jlwestsr)
+- Follow me on X: [@jlwestsr](https://x.com/jlwestsr)
 - Email: jlwestsr@gmail.com
 
 ## 🤝 How to collaborate
