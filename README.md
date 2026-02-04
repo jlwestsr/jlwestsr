@@ -1,6 +1,7 @@
 # Jason L. West, Sr.
 
 AI Infrastructure Engineer (Production GenAI) - Senior Software & Systems Engineer
+
 Bridging 30 years of architectural discipline with the future of Artificial Intelligence.
 
 ## 🚀 About Me
