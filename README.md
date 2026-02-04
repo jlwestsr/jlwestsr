@@ -1,6 +1,6 @@
-# Hi there, I'm Jason L West, Sr. 👋
+# Jason L. West, Sr.
 
-Software & Systems Engineer • AI Innovator
+AI Infrastructure Engineer (Production GenAI) - Senior Software & Systems Engineer
 Bridging 30 years of architectural discipline with the future of Artificial Intelligence.
 
 ## 🚀 About Me
